@@ -1,5 +1,7 @@
 # Using CSS Custom Properties
 
+[DRAFT] Notes for a talk on this topic. 
+
 ## Key takeaways
 
 - Variable stacks
@@ -113,7 +115,12 @@ we can’t rely on inheritance for functions that need to be re-calculated, e.g.
 
 Using a universal selector `*` will make the property (function) available everywhere
 
+## References
 
-
-- initial
-- 
+- [A Strategy Guide To CSS Custom Properties](https://www.madebymike.com.au/writing/a-strategy-guide-to-css-custom-properties/)
+- [A user’s guide to CSS variables](https://increment.com/frontend/a-users-guide-to-css-variables/)
+- [Using Custom Property “Stacks” to Tame the Cascade](https://css-tricks.com/using-custom-property-stacks-to-tame-the-cascade/)
+- [Patterns for Practical CSS Custom Properties Use
+](https://css-tricks.com/patterns-for-practical-css-custom-properties-use/)
+- [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
+- [Global and Component Style Settings with CSS Variables](https://www.sarasoueidan.com/blog/style-settings-with-css-variables/)
